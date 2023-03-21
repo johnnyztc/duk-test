@@ -1,0 +1,15 @@
+dash==2.8.1
+dash_bootstrap_components==1.4.0
+dash_core_components==2.0.0
+dash_html_components==2.0.0
+matplotlib==3.5.2
+numpy==1.21.5
+pandas==1.4.4
+pytz==2022.1
+requests==2.28.1
+scikit_learn==1.2.2
+seaborn==0.11.2
+statsmodels==0.13.2
+xgboost==1.7.3
+gunicorn
+dash-tools
